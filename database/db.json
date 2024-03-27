@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": 101,
+            "name": "Learn React JS",
+            "price": 50,
+            "in_stock": true
+        },
+        {
+            "id": 102,
+            "name": "Learn Express JS",
+            "price": 20,
+            "in_stock": true
+        },
+        {
+            "id": 103,
+            "name": "Learn Node JS",
+            "price": 10,
+            "in_stock": true
+        },
+        {
+            "id": 104,
+            "name": "Learn AWS Cloud",
+            "price": 40,
+            "in_stock": false
+        }
+    ]
+}
